@@ -13,5 +13,15 @@
     "esm": "^3.2.25",
     "glob": "^7.2.0",
     "minify": "^7.2.2"
+  },
+  "keywords": [
+    "minify",
+    "cli",
+    "generate",
+    "build"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Marius-brt/Web-Minifier"
   }
 }
